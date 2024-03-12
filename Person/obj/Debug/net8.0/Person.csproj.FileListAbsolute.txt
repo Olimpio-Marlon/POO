@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\bin\Debug\net8.0\Person.exe
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\bin\Debug\net8.0\Person.deps.json
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\bin\Debug\net8.0\Person.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\bin\Debug\net8.0\Person.dll
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\bin\Debug\net8.0\Person.pdb
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.sourcelink.json
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.dll
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\refint\Person.dll
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.pdb
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\Workspace\C#\Person\Person\obj\Debug\net8.0\ref\Person.dll
